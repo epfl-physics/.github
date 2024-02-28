@@ -1,4 +1,6 @@
-## EPFL Educational Physics Simulations
+## Welcome to the EPFL Educational Physics Simulations project
+
+Visit the webpage with the interactive simulations [here](https://epfl-physics.github.io).
 
 <!--
 
